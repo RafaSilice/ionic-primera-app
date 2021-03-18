@@ -1,0 +1,13 @@
+{
+  "appId": "com.silice.myapp",
+  "appName": "01-MyApp",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  },
+  "cordova": {}
+}
